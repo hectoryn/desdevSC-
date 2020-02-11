@@ -10,7 +10,10 @@ namespace desdevSc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(hola);
+            Console.WriteLine("hola");
+            Console.WriteLine("hola1");
+            Console.WriteLine("hola2");
+            Console.WriteLine("hola3");
         }
     }
 }
